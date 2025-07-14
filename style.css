@@ -11,7 +11,7 @@ body {
 
 
 header {
-    background-color: #221133;  /* cor da caixa do logo azul #0a3d62[cabeçalho original]  */
+    background-color: #221133;  /* cor da caixa do logo azul #0a3d62[cabeÃ§alho original]  */
     color: white;               /* white ou black cor texto depender da background-color logo */
     padding: 20px;              /* margem do logo, padding: 20px */
     text-align: left;           /* texto e logo adireita, antes center */
@@ -23,7 +23,7 @@ header {
 }
 
 nav {
-    background: #221140;        /* #2c0a62  cor da caixa do logo azul claro #1e3799[ menu cabeçalho original] */ 
+    background: #221140;        /* #2c0a62  cor da caixa do logo azul claro #1e3799[ menu cabeÃ§alho original] */ 
     display: flex;
     justify-content: right;     /* barra menu a esquerda, antes center, right, left */
     flex-wrap: wrap; 
@@ -66,10 +66,10 @@ ul {
 
 /* ------------------------------------------------------------ */
 li {
-    margin: 0px 0;  /* Nossos Serviços text distancia linha margin: 10px 0;*/
+    margin: 0px 0;  /* Nossos ServiÃ§os text distancia linha margin: 10px 0;*/
 }
 
-/* ------------------------------------------------------------* /
+/* ------------------------------------------------------------*/
 footer {
     background-color: #0a3d62;
     color: white;  /* cor texto rodape white */
