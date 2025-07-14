@@ -47,7 +47,7 @@ main {
     /* background-color: #2c0a90; */ /* cor do texto desta forma sobrepoe main o */ 
                                      /* <body style="background-color:black;">   */
     
-    color: white;  /* cor texto do main configurada aqui mesmo */
+    color: gray;  /* cor texto do main */
     
 }
 
