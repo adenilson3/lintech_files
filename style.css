@@ -1,7 +1,7 @@
 
 body {
  
-    background-image: linear-gradient(45deg, black 70%, #2c0a90 );  /* to top right,to top left, 45deg, #2c0a90  15% */    
+    background-image: linear-gradient(-45deg, black 70%, #2c0a90 );  /* to top right,to top left, 45deg, #2c0a90  15% */    
     font-family: Arial, sans-serif;                                        /* #2c0a90 azullogo, #221133 sugestao do site */
     margin: 0;                                                             /* #de8512 laranja */
     padding: 0;
@@ -30,7 +30,7 @@ nav {
 }
 
 nav a {
-    color: #de8512;             /* cor texto menu white/#de8512 laranja */
+    color: #f16234;             /* cor texto menu white/#de8512 laranja */
     padding: 02px 25px;         /* padding: 15px 20px; 15 a largura e 20 margem */ 
     text-decoration: none;      /* margem so fuciona para versao web */ 
 }
